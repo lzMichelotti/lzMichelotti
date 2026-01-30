@@ -52,9 +52,7 @@
 
 ## 🚀 Principais Projetos
 
-### 🛡️ [OpsGuardian - Agente Autônomo de SRE & Incident Response](https://github.com/lzMichelotti/OpsGuardian)
-> **Status:** Concluído ✅
-
+### 🛡️ [OpsGuardian - Agente Autônomo de SRE & Incident Response](https://github.com/lzMichelotti/OpsGuardian
 Simula um Agente de SRE automatizado que resolve o problema de "alert fatigue" (excesso de alertas). O sistema ingere alertas via Webhook, usa **IA Generativa (Llama-3)** para analisar a correlação com deploys recentes e decide autonomamente entre reiniciar o serviço (Self-healing), abrir um Bug Report ou escalar para um humano.
 - **Tech Stack:** n8n, Python (LLM), Docker, PostgreSQL, GitHub API.
 
