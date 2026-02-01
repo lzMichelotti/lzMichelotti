@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Lorenzo Michelotti Palma</h1>
-  <h3>☁️ Cloud Infrastructure | 🤖 DevOps & Automation | 🐍 Python</h3>
+  <h3>☁️ Cloud Infrastructure | 🤖 DevOps & Automation | 🐍 Python | 🐘 PostgreSQL</h3>
   <p>
     Estudante de <b>Redes de Computadores (UFSM)</b> e<br>
     <b>Estagiário de Infraestrutura e Desenvolvimento no LAMIC</b>.
