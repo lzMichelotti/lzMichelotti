@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Lorenzo Michelotti Palma</h1>
-  <h3>☁️ Cloud Infrastructure | 🤖 DevOps & Automation | 🐍 Python | 🐘 PostgreSQL</h3>
+  <h3>☁️ Cloud Infrastructure | 🤖 DevOps & Automation | 🐍 Python | ⚡ FastAPI | 🐘 PostgreSQL</h3>
   <p>
     Estudante de <b>Redes de Computadores (UFSM)</b> e<br>
     <b>Estagiário de Infraestrutura e Desenvolvimento no LAMIC</b>.
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
@@ -52,7 +53,7 @@
 
 ## 🚀 Principais Projetos
 
-### 🛡️ [n8n Incident Response - Agente Autônomo de SRE)
+### 🛡️ [n8n Incident Response - Agente Autônomo de SRE](https://github.com/lzMichelotti/n8n-incident-response)
 Simula um Agente de SRE automatizado que resolve o problema de "alert fatigue" (excesso de alertas). O sistema ingere alertas via Webhook, usa **IA Generativa (Llama-3)** para analisar a correlação com deploys recentes e decide autonomamente entre reiniciar o serviço (Self-healing), abrir um Bug Report ou escalar para um humano.
 - **Tech Stack:** n8n, JavaScript, Docker, PostgreSQL, GitHub API.
 
