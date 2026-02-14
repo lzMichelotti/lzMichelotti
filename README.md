@@ -53,6 +53,12 @@
 
 ## 🚀 Principais Projetos
 
+### 💰 [CloudThrift: Automação Inteligente de FinOps](https://github.com/lzMichelotti/EcoCloud-Assistente-Inteligente-de-Economia-na-AWS)
+Microsserviço de governança financeira que utiliza IA (Gemini) para reduzir o desperdício na AWS. O sistema escaneia recursos ociosos, gera relatórios técnicos de impacto e gerencia a deleção via Discord (ChatOps) com aprovação humana. Inclui um dashboard de observabilidade para monitoramento de ROI em tempo real.
+- **Tech Stack:** Python (FastAPI), AWS (Boto3), Google Gemini AI, n8n, Datadog, Terraform.
+
+---
+
 ### 🛡️ [n8n Incident Response - Agente Autônomo de SRE](https://github.com/lzMichelotti/n8n-incident-response)
 Simula um Agente de SRE automatizado que resolve o problema de "alert fatigue" (excesso de alertas). O sistema ingere alertas via Webhook, usa **IA Generativa (Llama-3)** para analisar a correlação com deploys recentes e decide autonomamente entre reiniciar o serviço (Self-healing), abrir um Bug Report ou escalar para um humano.
 - **Tech Stack:** n8n, JavaScript, Docker, PostgreSQL, GitHub API.
