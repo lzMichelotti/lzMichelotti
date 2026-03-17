@@ -71,9 +71,9 @@ Demonstração completa de um fluxo DevOps moderno. Provisionamento de infraestr
 
 ---
 
-### 📦 [Sistema de Patrimônio Inteligente com IA - LAMIC](https://github.com/lzMichelotti/lab-asset-management)
-Sistema web desenvolvido para gestão de inventário do laboratório. Diferencial: **Assistente de IA (Google Gemini)** integrado, permitindo cadastrar itens via chat em linguagem natural (ex: "Cadastre 10 cadeiras na sala 302"). Conta com exportação de relatórios PDF/Excel e Dashboard.
-- **Tech Stack:** Python (FastAPI), React, Google Gemini AI, SQLAlchemy, Docker.
+### 📦 [Sistema de Patrimônio - LAMIC](https://github.com/lzMichelotti/Sistema-Patrim-nio.git)
+Sistema web para controle de bens patrimoniais, com cadastro, organização e acompanhamento de ativos em uma interface simples e centralizada.
+- **Tech Stack:** Backend em Python, Frontend em React (Vite), Docker e banco de dados relacional.
 
 ---
 
