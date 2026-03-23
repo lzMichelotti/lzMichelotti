@@ -4,13 +4,13 @@
 
 <div align="center">
   <h1>Lorenzo Michelotti Palma</h1>
-  <h3>☁️ Cloud Infrastructure | 🤖 DevOps & Automation | 🐍 Python | ⚡ FastAPI | 🐘 PostgreSQL</h3>
+  <h3>🐍 Desenvolvedor Backend (Python) | ⚡ APIs & Integrações | 🤖 Automação | ☁️ Cloud & Docker</h3>
   <p>
     Estudante de <b>Redes de Computadores (UFSM)</b> e<br>
-    <b>Estagiário de Infraestrutura e Desenvolvimento no LAMIC</b>.
+    <b>Estagiário no LAMIC (Desenvolvimento & Infraestrutura)</b>.
   </p>
   <p>
-    Foco em unir a robustez da infraestrutura de redes com a agilidade da automação e DevOps.
+    Foco no desenvolvimento Backend com Python, criação de APIs RESTful, modelagem de banco de dados e automação de processos reais. Unindo a base de Redes com código para entregar sistemas eficientes.
   </p>
   
   <a href="https://www.linkedin.com/in/lorenzo-michelotti-palma/">
@@ -25,25 +25,21 @@
 <hr>
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
