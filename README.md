@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Lorenzo Michelotti Palma</h1>
-  <h3>🐍 Desenvolvedor Backend (Python) | ⚡ APIs & Integrações | 🤖 Automação | ☁️ Cloud & Docker</h3>
+  <h3>💻 System Developer | 🐍 Desenvolvedor Backend (Python) | ⚡ APIs & Integrações | 🤖 Automação | ☁️ Cloud & Docker</h3>
   <p>
     Estudante de <b>Redes de Computadores (UFSM)</b> e<br>
     <b>Estagiário no LAMIC (Desenvolvimento & Infraestrutura)</b>.
@@ -79,5 +79,5 @@ Solução de IoT que permite acessar o console serial de switches Cisco remotame
 
 <br>
 <div align="center">
-  <sub><i>"A melhor infraestrutura é aquela que os desenvolvedores nem percebem que existe."</i></sub>
+  <sub><i>"O código é apenas a ferramenta; o verdadeiro desenvolvimento está em resolver problemas complexos com arquiteturas simples e eficientes."</i></sub>
 </div>
