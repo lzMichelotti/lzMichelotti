@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Lorenzo Michelotti Palma</h1>
-  <h3>💻 System Developer | 🐍 Desenvolvedor Backend (Python) | ⚡ APIs & Integrações | 🤖 Automação | ☁️ Cloud & Docker</h3>
+  <h3>💻 System Developer | 🐍 Desenvolvedor Backend (Python) | ⚡ APIs & Integrações | 🐘 PostgreSQL | 🤖 Automação | ☁️ Cloud & Docker</h3>
   <p>
     Estudante de <b>Redes de Computadores (UFSM)</b> e<br>
     <b>Estagiário no LAMIC (Desenvolvimento & Infraestrutura)</b>.
